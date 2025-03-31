@@ -26,7 +26,7 @@ The `Weather.py` file demonstrates the following:
   - Wind Speed  
 - Performed linear regression analysis for each weather variable in both the Northern and Southern Hemispheres. 
 
-### **Vacation Planning **  
+### Vacation Planning  
 The `VacationPy` file demonstrates the following: 
 
 - Mapped city locations using weather data.  
